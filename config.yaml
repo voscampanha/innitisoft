@@ -77,11 +77,11 @@ params:
     clients:
     - name: Vanessa Souza
       quote: Professional Scrum Master PSM I com conhecimento em Java, PHP, SQL Server, Wordpress e Hugo framework. 
-      job: System Analyst
+      job: Analista de Sistema
       img: 1
     - name: Diogo Campanha
       quote: Desenvolvedor com conhecimento em .NET, JS, PHP, SQL Server, MongoDB, Redis, VueJs, NodeJS, React, Laravel, Yii2 and Angular.
-      job: Software Engineer
+      job: Desenvolvedor
       img: 2
     # - name: Gary Blackman
     #   quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
