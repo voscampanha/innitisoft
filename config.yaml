@@ -1,0 +1,113 @@
+baseURL: /
+languageCode: pt-BR
+title: Inniti Software
+theme: hugo-fresh
+
+params:
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+   image: logos/fresh-white-alt.svg
+   link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Inniti Software
+    # Hero subtitle (optional)
+    subtitle: Foco em qualidade sem desperdício
+    # Button text
+    buttontext: Descubra
+    # Where the main hero button links to
+    buttonlink: "#section1"
+    # Hero image (from static/images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from static/images/logos/clients/___.svg)
+    # clientlogos:
+    # - systek
+    # - tribe
+    # - kromo
+    # - infinite
+    # - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Principal
+    url: /
+  - title: Serviços
+    url: /#section1
+  - title: Sobre
+    url: /#section2
+  - title: Contato
+    url: /#section5
+    button: true
+  section1:
+    title: Vamos descobrir juntos
+    subtitle: Atender suas necessidades com ótimas soluções.
+    tiles:
+    - title: WEBSITE
+      icon: mouse-globe
+      text: Seu conteúdo na internet em sites, blogs, aplicativos para atingir todo o seu público.
+      url: /
+    - title: WEB SYSTEM
+      icon: laptop-globe
+      text: Automatize seus processos e informações de forma rápida e eficiente.
+      url: /
+    - title: MOBILE APP
+      icon: mobile-feed
+      text: Sua marca onde os seus clientes estão. Em todos dispositivos móveis.
+      url: /
+    
+  section2:
+    title: Você deseja o melhor
+    subtitle: E nós sabemos disso
+    features:
+    - title: Inniti Software é uma empresa de desenvolvimento jovem e dinâmica composta por um time de especialistas experientes.
+      text: Nossa empresa é composta por um time de analistas com extensiva experiência em desenvolvimento de software, preparada para construir tudo o que você precisa. A maior preocupação do nosso time é escutar e entender nossos clientes para desenvolver soluções de qualidade que atendam as suas reais necessidades, usando princípios lean como "Eliminação de desperdício", "Foco em Qualidade" e "Geração de Conhecimento".
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: doc-sync
+  # section3:
+  #   title: One platform
+  #   subtitle: To rule them all
+  #   image: illustrations/mockups/app-mockup.png
+  #   buttonText: Get started
+  #   buttonLink: "#"
+  section4:
+    title: Nosso time!
+    subtitle: Estamos prontos para ajudar
+    clients:
+    - name: Vanessa Souza
+      quote: Professional Scrum Master PSM I com conhecimento em Java, PHP, SQL Server, Wordpress and Hugo framework. 
+      job: System Analyst
+      img: 1
+    - name: Diogo Campanha
+      quote: Desenvolvedor com conhecimento em .NET, JS, PHP, SQL Server, MongoDB, Redis, VueJs, NodeJS, React, Laravel, Yii2 and Angular.
+      job: Software Engineer
+      img: 2
+    # - name: Gary Blackman
+    #   quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+    #   job: HR Manager
+    #   img: 3
+  section5: true
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://instagram.com/innitisoft/
+      # Icons are from Font Awesome
+      icon: instagram
+    - link: https://facebook.com/innitisoft
+      icon: facebook
+    - link: 'mailto: innitisoft@gmail.com'
+      icon: envelope
+    # - link: https://twitter.com/#
+    #   icon: twitter
+    bulmalogo: false
+    # quicklinks:
+    #   column1:
+    #     title: "Blog"
+    #     links:
+    #     - text: Latest news
+    #       link: /blog/first
+    #     - text: Tech articles
+    #       link: /blog/second
