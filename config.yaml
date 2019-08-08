@@ -21,7 +21,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#section1"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/workers.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     # clientlogos:
     # - systek
@@ -41,18 +41,18 @@ params:
     url: /#section5
     button: true
   section1:
-    title: Vamos descobrir juntos
+    title: Vamos criar juntos
     subtitle: Atender suas necessidades com ótimas soluções.
     tiles:
-    - title: WEBSITE
+    - title: WEBSITES
       icon: mouse-globe
       text: Seu conteúdo na internet em sites, blogs, aplicativos para atingir todo o seu público.
       url: /
-    - title: WEB SYSTEM
+    - title: SISTEMAS WEB
       icon: laptop-globe
       text: Automatize seus processos e informações de forma rápida e eficiente.
       url: /
-    - title: MOBILE APP
+    - title: APLICATIVOS MOBILE
       icon: mobile-feed
       text: Sua marca onde os seus clientes estão. Em todos dispositivos móveis.
       url: /
@@ -80,7 +80,7 @@ params:
       job: Analista de Sistema
       img: 1
     - name: Diogo Campanha
-      quote: Desenvolvedor com conhecimento em .NET, JS, PHP, SQL Server, MongoDB, Redis, VueJs, NodeJS, React, Laravel, Yii2 and Angular.
+      quote: Desenvolvedor com conhecimento em .NET, JS, PHP, SQL Server, MongoDB, Redis, VueJs, NodeJS, React, Laravel, Yii2 e Angular.
       job: Desenvolvedor
       img: 2
     # - name: Gary Blackman
