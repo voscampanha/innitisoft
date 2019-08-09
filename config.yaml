@@ -93,13 +93,15 @@ params:
     logo: fresh-white-alt.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
+    - link: 'mailto: innitisoft@gmail.com'
+      icon: envelope
+    - link: 'https://api.whatsapp.com/send?phone=5516997867704'
+      icon: whatsapp
     - link: https://instagram.com/innitisoftware/
       # Icons are from Font Awesome
       icon: instagram
     - link: https://facebook.com/innitisoftware
-      icon: facebook
-    - link: 'mailto: innitisoft@gmail.com'
-      icon: envelope
+      icon: facebook    
     # - link: https://twitter.com/#
     #   icon: twitter
     bulmalogo: false
