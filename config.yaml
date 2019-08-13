@@ -34,11 +34,11 @@ params:
   - title: Principal
     url: /
   - title: Serviços
-    url: /#section1
+    url: /#servicos
   - title: Sobre
-    url: /#section2
+    url: /#sobre
   - title: Contato
-    url: /#section5
+    url: /#contato
     button: true
   section1:
     title: Vamos criar juntos
