@@ -19,7 +19,7 @@ params:
     # Button text
     buttontext: Descubra
     # Where the main hero button links to
-    buttonlink: "#section1"
+    buttonlink: "#sobre"
     # Hero image (from static/images/___)
     image: illustrations/workers.svg
     # Footer logos (from static/images/logos/clients/___.svg)
