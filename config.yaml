@@ -76,7 +76,7 @@ params:
     subtitle: Estamos prontos para ajudar
     clients:
     - name: Vanessa Souza
-      quote: Professional Scrum Master PSM I com conhecimento em Java, PHP, SQL Server, Wordpress e Hugo framework. 
+      quote: Professional Scrum Master PSM-I com conhecimento em Java, PHP, SQL Server, Wordpress e Hugo framework. 
       job: Analista de Sistema
       img: 1
     - name: Diogo Campanha
@@ -104,7 +104,7 @@ params:
       icon: facebook    
     # - link: https://twitter.com/#
     #   icon: twitter
-    bulmalogo: false
+    bulmalogo: true
     # quicklinks:
     #   column1:
     #     title: "Blog"
